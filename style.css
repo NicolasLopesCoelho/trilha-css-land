@@ -1,0 +1,75 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.banner{
+    background-image: url(/assets/images/banner.png);
+    background-color: rgba(0, 191, 255, 0.085);
+    margin-top: -7px;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+}
+
+.trilha{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #1e93e8;
+}
+
+.a-nova{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.quero{
+    color: #1e93e8;
+    background-color: transparent;
+    border: 2px #1e93e8 solid;
+    margin-left: 590px;
+    font-size: 15px;
+    padding: 10px;
+    width: 20%;
+}
+
+.oquevou{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #1e93e8;
+}
+
+.temos3{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.module{
+    text-align: center;
+    align-items: center;
+    margin-left: 500px;
+    width: 30%;
+    background-color: rgb(44, 44, 44);
+    border: 2px solid #1e93e8;;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    height: 40px;
+}
+
+.texto{
+    margin-top: 10px;
+}
+
+.woman{
+    background-image: url(/assets/images/woman-code.png);
+    width: 100px;
+    height: 500px;
+}
